@@ -44,7 +44,7 @@ The weights after model training can be downloaded [`here`](https://drive.google
 ## for proposals visualization in the first stage of Faster R-CNN
 Again remember to check the paths in the code. Simply put the test images in the `test_examples` folder, the results will be saved in the `output_example` folder
 ```
-python visualization_proposal.py # After running this command both Faster R-CNN and YOLO V3 results will be generated.
+python test_image.py # After running this command both Faster R-CNN and YOLO V3 results will be generated.
 ```
 ## for External data test
 
