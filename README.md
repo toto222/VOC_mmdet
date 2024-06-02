@@ -5,7 +5,7 @@ bash mmdet.sh
 ```
 Make sure the version of mmdet is >=3.2.0.
 ## dataset
-The data is already in this repo, to learn more you can go [`VOC2012`](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
+The data is not in this repo, to download it you can go [`VOC2012`](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
 It is recommaned to put the data file in the dataset folder like
 ```
 data/
